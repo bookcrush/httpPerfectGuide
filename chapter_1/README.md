@@ -9,4 +9,4 @@
 5. 김준형
 6. 류지환
 7. 이동규
-8. 이종진
+8. 이종진 - [HTTP란?](https://jongjineee.github.io/2019/07/18/http-opening.html)
