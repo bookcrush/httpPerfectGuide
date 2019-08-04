@@ -10,3 +10,4 @@
 6. 류지환
 7. 이동규
 8. 이종진
+9. 한재우 - [HTTP 완벽가이드 1장](https://bebiangel.github.io/2019/08/03/http-guide-chap1/)
