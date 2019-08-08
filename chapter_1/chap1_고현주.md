@@ -22,7 +22,7 @@ HTTP는 이미지, HTML 문서, 텍스트, 동영상 등을 웹 브라우저로 
 
 위에서 이야기한 이미지, HTML 문서, 텍스트, 동영상 등의 리소스들은 웹 서버에 있습니다. 웹 서버(이하 HTTP 서버)는 HTTP 클라이언트가 보낸 데이터를 저장하고, HTTP 클라이언트가 요청한 데이터를 제공해줍니다.
 
-웹 브라우저(HTTP 클라이언트)가 서버에 HTTP 객체를 요청하면 서버가 보내준 리소스를 웹 브라우저가 처리해줍니다. 예를 들어, 크롬에서 [http://theeeeeng.github.com](https://theeeeeng.github.com) 링크로 접근하면, 크롬은  [http://theeeeeng.github.com](https://theeeeeng.githumb.com) 서버로 HTTP 요청(여기서는 index.html 요청)을 보냅니다. 요청받은 서버는 요청받은 객체를 찾고, 성공했다면 요청받은 객체의 타입, 길이 등의 정보와 함께 HTTP 응답에 실어서 클라이언트로 전송합니다.
+웹 브라우저(HTTP 클라이언트)가 서버에 HTTP 객체를 요청하면 서버가 보내준 리소스를 웹 브라우저가 처리해줍니다. 예를 들어, 크롬에서 [http://theeeeeng.github.com](https://theeeeeng.github.com) 링크로 접근하면, 크롬은  [http://theeeeeng.github.com](https://theeeeeng.githumb.com) 서버로 HTTP 요청을 보냅니다. 요청받은 서버는 요청받은 객체를 찾고, 성공했다면 요청받은 객체의 타입, 길이 등의 정보와 함께 HTTP 응답에 실어서 클라이언트로 전송합니다.
 
 ## 리소스
 
