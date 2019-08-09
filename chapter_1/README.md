@@ -8,7 +8,7 @@
 4. 김나영 - [HTTP 개관](https://feel5ny.github.io/2019/08/03/HTTP_001/)
 5. 김준형
 6. 류지환
-7. 이동규
+7. 이동규 - [HTTP 완벽가이드 스터디 #1](https://brainbackdoor.tistory.com/120)
 8. 이종진
 9. 이보라
 10. 이강호
