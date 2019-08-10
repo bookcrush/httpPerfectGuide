@@ -13,3 +13,4 @@
 9. 이보라
 10. 이강호
 11. 홍유정
+12. 한재우 - [HTTP 완벽가이드 1장](https://bebiangel.github.io/2019/08/03/http-guide-chap1/)
