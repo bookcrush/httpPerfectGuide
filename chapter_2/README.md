@@ -8,7 +8,7 @@
 4. 김나영
 5. 김준형
 6. 류지환
-7. 이강호
+7. 이강호 - [HTTP - 2장](https://www.notion.so/chapter2-URL-7d3991ca001f4f639da8809cb1c55f00)
 8. 이동규
 9. 이보라
 10. 이종진
