@@ -10,7 +10,7 @@
 6. 류지환
 7. 이동규 - [HTTP 완벽가이드 스터디 #1](https://brainbackdoor.tistory.com/120)
 8. 이종진
-9. 이보라
+9. 이보라 - [HTTP 완벽가이드 1장](chapter_1/chap1_이보라.md) 
 10. 이강호
 11. 홍유정
 12. 한재우 - [HTTP 완벽가이드 1장](https://bebiangel.github.io/2019/08/03/http-guide-chap1/)
