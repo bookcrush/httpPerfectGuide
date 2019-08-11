@@ -6,7 +6,7 @@
 2. 고현주
 3. 구유림 - [HTTP 완벽 가이드 [1-1] - HTTP 개관](https://yurimkoo.github.io/http/2019/07/30/http-the-definitive-guide-1-1.html)
 4. 김나영
-5. 김준형
+5. 김준형 : [HTTP - 1장](https://junjangsee.github.io/2019/07/29/network/network-01/)
 6. 류지환
 7. 이동규 - [HTTP 완벽가이드 스터디 #1](https://brainbackdoor.tistory.com/120)
 8. 이종진
