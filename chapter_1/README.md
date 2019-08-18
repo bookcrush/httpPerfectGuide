@@ -9,7 +9,7 @@
 5. 김준형 : [HTTP - 1장](https://junjangsee.github.io/2019/07/29/network/network-01/)
 6. 류지환
 7. 이동규 - [HTTP 완벽가이드 스터디 #1](https://brainbackdoor.tistory.com/120)
-8. 이종진
+8. 이종진 - [HTTP란?](https://jongjineee.github.io/2019/07/18/http-opening.html)
 9. 이보라
 10. 이강호
 11. 홍유정
