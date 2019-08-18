@@ -7,7 +7,7 @@
 3. 구유림
 4. 김나영
 5. 김준형
-6. 류지환
+6. 류지환 - [3장 HTTP 메시지 : 콘텐츠가 담기는 HTTP 메시지](https://www.notion.so/jeewhan/3-HTTP-HTTP-04821c3217ca4944adf111c0259ae878)
 7. 이강호
 8. 이동규
 9. 이보라
