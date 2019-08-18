@@ -13,4 +13,5 @@
 9. 이보라
 10. 이종진
 11. 홍유정
-12. 한재우 - [HTTP 완벽가이드 1장](https://bebiangel.github.io/2019/08/11/http-guide-chap2/)
+12. 한재우 - [HTTP 완벽가이드 2장](https://bebiangel.github.io/2019/08/11/http-guide-chap2/)
+
