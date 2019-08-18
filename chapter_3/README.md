@@ -11,7 +11,7 @@
 7. 이강호
 8. 이동규
 9. 이보라
-10. 이종진
+10. 이종진 - [HTTP 완벽가이드::MESSAGE](https://jongjineee.github.io/2019/08/18/http-message.html)
 11. 홍유정
 12. 한재우
 
