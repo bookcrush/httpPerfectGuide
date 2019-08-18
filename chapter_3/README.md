@@ -3,7 +3,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주
+2. 고현주 - [HTTP 완벽가이드 I.HTTP: 웹의 기초_03.HTTP 메세지](https://dev-junior.tistory.com/7)
 3. 구유림
 4. 김나영
 5. 김준형
