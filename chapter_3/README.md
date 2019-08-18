@@ -5,7 +5,7 @@
 1. 고석진
 2. 고현주
 3. 구유림
-4. 김나영
+4. 김나영 - [HTTP메세지/개요](https://feel5ny.github.io/2019/08/15/HTTP_003_01/), [HTTP메세지/메서드](https://feel5ny.github.io/2019/08/16/HTTP_003_02/), [HTTP메세지/상태코드](https://feel5ny.github.io/2019/08/17/HTTP_003_03/), [HTTP메세지/헤더](https://feel5ny.github.io/2019/08/18/HTTP_003_04/)
 5. 김준형
 6. 류지환
 7. 이강호
