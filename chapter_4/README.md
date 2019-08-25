@@ -7,7 +7,7 @@
 3. 구유림
 4. 김나영
 5. 김준형
-6. 류지환
+6. 류지환 - [4장 커넥션 관리 : HTTP에서 관리하는 TCP 커넥션에 동작방식, 대한 오해, 잘못 작성된 규칙](https://www.notion.so/jeewhan/4-HTTP-TCP-b5a367c48cf841ed878c49dcd1fac0bd)
 7. 이강호
 8. 이동규
 9. 이보라
