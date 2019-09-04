@@ -13,4 +13,5 @@
 9. 이보라
 10. 이종진 - [HTTP 완벽가이드::URL](https://jongjineee.github.io/2019/08/09/http-url.html)
 11. 홍유정 - [[HTTP완벽가이드] 02. URL과 리소스](https://youjung-hong.github.io/2019-08-07/02-URL%EA%B3%BC-%EB%A6%AC%EC%86%8C%EC%8A%A4/)
-12. 한재우
+12. 한재우 - [HTTP 완벽가이드 2장](https://bebiangel.github.io/2019/08/11/http-guide-chap2/)
+
