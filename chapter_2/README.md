@@ -7,7 +7,7 @@
 3. 구유림 - [HTTP 완벽 가이드 [1-2] - URL과 리소스](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-2.html)
 4. 김나영 - [URL과 리소스](https://feel5ny.github.io/2019/08/09/HTTP_002/)
 5. 김준형 - [HTTP - 2장](https://junjangsee.github.io/2019/08/11/network/network-02/)
-6. 류지환
+6. 류지환 - [2장 URL과 리소스 : URL의 포맷, URL이 가르키는 리소스 형식, URN으로의 발전과정](https://www.notion.so/jeewhan/2-URL-URL-URL-URN-bca9ea444d5046e39e8b24cfc1971b17)
 7. 이강호 - [HTTP - 2장](https://www.notion.so/chapter2-URL-7d3991ca001f4f639da8809cb1c55f00)
 8. 이동규 - [HTTP 완벽가이드 스터디 #2](https://brainbackdoor.tistory.com/122)
 9. 이보라 - [HTTP 완벽가이드 2장](./chap2_이보라.md) 
