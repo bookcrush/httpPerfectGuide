@@ -13,7 +13,7 @@
 7. 이강호
 8. 이동규 - [HTTP 완벽가이드 스터디 #3](https://brainbackdoor.tistory.com/123)
 9. 이보라
-10. 이종진
+10. 이종진 - [HTTP 완벽가이드::MESSAGE](https://jongjineee.github.io/2019/08/18/http-message.html)
 11. 홍유정
 12. 한재우
 
