@@ -9,7 +9,7 @@
 ](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-3-2.html)
 4. 김나영
 5. 김준형
-6. 류지환
+6. 류지환 - [3장 HTTP 메시지 : 콘텐츠가 담기는 HTTP 메시지](https://www.notion.so/jeewhan/3-HTTP-HTTP-04821c3217ca4944adf111c0259ae878)
 7. 이강호
 8. 이동규 - [HTTP 완벽가이드 스터디 #3](https://brainbackdoor.tistory.com/123)
 9. 이보라
