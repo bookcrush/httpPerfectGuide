@@ -3,7 +3,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주
+2. 고현주 - https://dev-junior.tistory.com/6
 3. 구유림 - [HTTP 완벽 가이드 [1-2] - URL과 리소스](https://yurimkoo.github.io/http/2019/08/08/http-the-definitive-guide-1-2.html)
 4. 김나영 - [URL과 리소스](https://feel5ny.github.io/2019/08/09/HTTP_002/)
 5. 김준형 - [HTTP - 2장](https://junjangsee.github.io/2019/08/11/network/network-02/)
