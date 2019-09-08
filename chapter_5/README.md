@@ -6,7 +6,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주- https://dev-junior.tistory.com/9
+2. 고현주- [II.HTTP 아키텍처_01.웹 서버](https://dev-junior.tistory.com/9)
 3. 김나영
 4. 김준형
 5. 류지환
