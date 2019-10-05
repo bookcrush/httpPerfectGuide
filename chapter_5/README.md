@@ -8,7 +8,7 @@
 1. 고석진
 2. 고현주
 3. 김나영
-4. 김준형
+4. 김준형 [HTTP - 5장](https://junjangsee.github.io/2019/09/08/network/network-05/)
 5. 류지환
 6. 이강호
 7. 이동규
