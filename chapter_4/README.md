@@ -7,7 +7,7 @@
 3. 구유림 - [HTTP 완벽 가이드 [1-4] - 커넥션 관리](https://yurimkoo.github.io/http/2019/08/23/http-the-definitive-guide-1-4.html)
 4. 김나영 - [TCP 커넥션과 성능](https://feel5ny.github.io/2019/08/26/HTTP_004_01/), [TCP 커넥션의 종류](https://feel5ny.github.io/2019/09/04/HTTP_004_02/)
 5. 김준형 - [HTTP 4장](https://junjangsee.github.io/2019/08/24/network/network-04/)
-6. 류지환
+6. 류지환 - [4장 커넥션 관리 : HTTP에서 관리하는 TCP 커넥션에 동작방식, 대한 오해, 잘못 작성된 규칙](https://www.notion.so/jeewhan/4-HTTP-TCP-b5a367c48cf841ed878c49dcd1fac0bd)
 7. 이강호
 8. 이동규
 9. 이보라
