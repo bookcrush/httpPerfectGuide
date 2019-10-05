@@ -6,7 +6,7 @@
 2. 고현주
 3. 구유림 - [HTTP 완벽 가이드 [1-4] - 커넥션 관리](https://yurimkoo.github.io/http/2019/08/23/http-the-definitive-guide-1-4.html)
 4. 김나영
-5. 김준형
+5. 김준형 - [HTTP 4장](https://junjangsee.github.io/2019/08/24/network/network-04/)
 6. 류지환
 7. 이강호
 8. 이동규
