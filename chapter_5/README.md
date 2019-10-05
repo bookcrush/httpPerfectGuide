@@ -8,14 +8,14 @@
 1. 고석진
 2. 고현주
 3. 김나영 - [웹 서버](https://feel5ny.github.io/2019/09/07/HTTP_005/)
-4. 김준형
+4. 김준형 - [HTTP - 5장](https://junjangsee.github.io/2019/09/08/network/network-05/)
 5. 류지환
 6. 이강호
 7. 이동규
 8. 이보라
 9. 이혜승
 10. 홍유정
-11. 한재우
+11. 한재우 - [HTTP 완벽가이드 5장](https://bebiangel.github.io/2019/09/08/http-guide-chap5/)
 
 ## 4장 정리글 리뷰 team
 

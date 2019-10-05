@@ -7,8 +7,7 @@
 
 ### ING
 
-- deadLine: ~ 9.9 월요일 자정
-- Todo: chap5 정리본 PR 올리기
+[7장-2](./chapter_7-2/README.md)
 
 ---
 
