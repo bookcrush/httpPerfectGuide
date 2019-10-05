@@ -5,7 +5,7 @@
 1. 고석진
 2. 고현주 - [I.HTTP: 웹의 기초_04.커넥션 관리](https://dev-junior.tistory.com/8)
 3. 구유림 - [HTTP 완벽 가이드 [1-4] - 커넥션 관리](https://yurimkoo.github.io/http/2019/08/23/http-the-definitive-guide-1-4.html)
-4. 김나영
+4. 김나영 - [TCP 커넥션과 성능](https://feel5ny.github.io/2019/08/26/HTTP_004_01/), [TCP 커넥션의 종류](https://feel5ny.github.io/2019/09/04/HTTP_004_02/)
 5. 김준형 - [HTTP 4장](https://junjangsee.github.io/2019/08/24/network/network-04/)
 6. 류지환
 7. 이강호
