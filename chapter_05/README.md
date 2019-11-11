@@ -9,7 +9,7 @@
 2. 고현주 - [II.HTTP 아키텍처\_01.웹 서버](https://dev-junior.tistory.com/9)
 3. 김나영 - [웹 서버](https://feel5ny.github.io/2019/09/07/HTTP_005/)
 4. 김준형 - [HTTP - 5장](https://junjangsee.github.io/2019/09/08/network/network-05/)
-5. 류지환
+5. 류지환 - [5장 웹 서버 : 웹 서버 아키텍처](https://www.notion.so/jeewhan/5-67c1246d4f064dbfa407a6af2cbf8006)
 6. 이강호
 7. 이동규 - [HTTP 완벽 가이드 5 - web server](https://github.com/brainbackdoor/bbd-http-web/blob/master/docs/server/README.md)
 8. 이보라
