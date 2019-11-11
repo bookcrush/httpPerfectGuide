@@ -6,9 +6,9 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주 - [HTTP 6-1 프락시] (https://dev-junior.tistory.com/10)
+2. 고현주 - [HTTP 6-1 프락시](https://dev-junior.tistory.com/10)
 3. 김나영 - [프록시1](https://feel5ny.github.io/2019/09/22/HTTP_006/)
-4. 김준형
+4. 김준형 - [HTTP 6-1](https://junjangsee.github.io/2019/09/22/network/network-06/)
 5. 류지환
 6. 이강호 - [chapter6 정리](https://www.notion.so/Chapter-6-f3805c1d43b54c11b9a03c8782b273fb)
 7. 이동규 - [HTTP 완벽가이드 스터디 #6 -a Proxy Server](https://brainbackdoor.tistory.com/128)
