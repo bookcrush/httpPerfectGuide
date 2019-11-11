@@ -6,7 +6,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주
+2. 고현주 - [HTTP 7.캐시](https://dev-junior.tistory.com/11)
 3. 김나영 - [프락시](https://feel5ny.github.io/2019/09/22/HTTP_006/), [캐시-1](https://feel5ny.github.io/2019/09/30/HTTP_007-1/)
 4. 김준형
 5. 류지환
