@@ -10,7 +10,7 @@
 3. 김나영
 4. 김준형
 5. 류지환
-6. 이강호
+6. 이강호 - [chapter6 정리](https://www.notion.so/Chapter-6-f3805c1d43b54c11b9a03c8782b273fb)
 7. 이동규
 8. 이보라 - [HTTP 완벽가이드 6장](./chap6_이보라.md)
 9. 한재우 - [HTTP 완벽가이드 6장](https://bebiangel.github.io/2019/09/22/http-guide-chap6/)
