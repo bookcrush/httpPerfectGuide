@@ -13,9 +13,7 @@
 6. 이강호 - [chapter6 정리](https://www.notion.so/Chapter-6-f3805c1d43b54c11b9a03c8782b273fb)
 7. 이동규
 8. 이보라
-9. 이혜승
-10. 홍유정
-11. 한재우
+9. 한재우
 
 ## 5장 정리글 리뷰 team
 
