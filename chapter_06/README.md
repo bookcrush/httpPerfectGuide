@@ -13,9 +13,7 @@
 6. 이강호
 7. 이동규
 8. 이보라
-9. 이혜승
-10. 홍유정
-11. 한재우 - [HTTP 완벽가이드 6장](https://bebiangel.github.io/2019/09/22/http-guide-chap6/)
+9. 한재우 - [HTTP 완벽가이드 6장](https://bebiangel.github.io/2019/09/22/http-guide-chap6/)
 
 ## 5장 정리글 리뷰 team
 
