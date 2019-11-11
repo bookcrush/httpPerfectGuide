@@ -11,7 +11,7 @@
 4. 김준형
 5. 류지환
 6. 이강호
-7. 이동규
+7. 이동규 - [HTTP 완벽가이드 스터디 #9 - web robot](https://github.com/brainbackdoor/bbd-http-web/blob/master/docs/webrobot/README.md) 
 8. 이보라
 9. 한재우 - [HTTP 완벽가이드 9장](https://bebiangel.github.io/2019/10/19/http-guide-chap9/)
 
