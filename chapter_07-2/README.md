@@ -14,9 +14,7 @@
 6. 이강호
 7. 이동규 - [HTTP 완벽가이드 스터디 #7 - Cache](https://brainbackdoor.tistory.com/129)
 8. 이보라
-9. 이혜승
-10. 홍유정
-11. 한재우
+9. 한재우
 
 ## [6장-7장] 정리글 리뷰 team
 
