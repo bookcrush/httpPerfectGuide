@@ -12,7 +12,7 @@
 5. 류지환
 6. 이강호
 7. 이동규
-8. 이보라
+8. 이보라 - [HTTP 완벽가이드 6장](./chap6_이보라.md)
 9. 한재우 - [HTTP 완벽가이드 6장](https://bebiangel.github.io/2019/09/22/http-guide-chap6/)
 
 ## 5장 정리글 리뷰 team
