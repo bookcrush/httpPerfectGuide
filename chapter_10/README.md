@@ -13,7 +13,7 @@
 4. 김준형 - [HTTP - 9장](https://junjangsee.github.io/2019/10/20/network/network-09/), [HTTP - 10장](https://junjangsee.github.io/2019/10/27/network/network-10/)
 5. 류지환
 6. 이강호
-7. 이동규
+7. 이동규 - [HTTP 완벽가이드 스터디 #10 - http/2.0](https://github.com/brainbackdoor/bbd-http-web/tree/feat/http2/docs/http2)
 8. 이보라
 9. 한재우 - [HTTP 완벽가이드 10장](https://bebiangel.github.io/2019/10/27/http-guide-chap10/)
 
