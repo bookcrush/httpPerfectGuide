@@ -7,7 +7,7 @@
 
 ### ING
 
-[7장-2](./chapter_7-2/README.md)
+[9장](./chapter_09/README.md)
 
 ---
 

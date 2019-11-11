@@ -11,7 +11,7 @@
 4. 김준형 - [HTTP - 5장](https://junjangsee.github.io/2019/09/08/network/network-05/)
 5. 류지환
 6. 이강호
-7. 이동규
+7. 이동규 - [HTTP 완벽 가이드 5 - web server](https://github.com/brainbackdoor/bbd-http-web/blob/master/docs/server/README.md)
 8. 이보라
 9. 한재우 - [HTTP 완벽가이드 5장](https://bebiangel.github.io/2019/09/08/http-guide-chap5/)
 
