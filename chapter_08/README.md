@@ -11,7 +11,7 @@
 4. 김준형
 5. 류지환
 6. 이강호
-7. 이동규
+7. 이동규 - [HTTP 완벽가이드 스터디 #8 - G/W, Tunnel](https://brainbackdoor.tistory.com/130) 
 8. 이보라
 9. 한재우 - [HTTP 완벽가이드 8장](https://bebiangel.github.io/2019/10/13/http-guide-chap8/)
 
