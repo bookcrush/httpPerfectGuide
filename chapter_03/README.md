@@ -12,9 +12,9 @@
 6. 류지환 - [3장 HTTP 메시지 : 콘텐츠가 담기는 HTTP 메시지](https://www.notion.so/jeewhan/3-HTTP-HTTP-04821c3217ca4944adf111c0259ae878)
 7. 이강호 [HTTP 메세지](https://www.notion.so/Chapter-3-HTTP-9ceda876d2864d2492ea8a2b92b340b1)
 8. 이동규 - [HTTP 완벽가이드 스터디 #3](https://brainbackdoor.tistory.com/123)
-9. 이보라
+9. 이보라 - [HTTP 완벽가이드 3장](./chap3_이보라.md) 
 10. 이종진 - [HTTP 완벽가이드::MESSAGE](https://jongjineee.github.io/2019/08/18/http-message.html)
-11. 홍유정
+11. 홍유정 - [[HTTP완벽가이드] 03. HTTP 메시지](https://youjung-hong.github.io/2019-08-18/03-HTTP-%EB%A9%94%EC%8B%9C%EC%A7%80/)
 12. 한재우 - [HTTP 완벽가이드 3장](https://bebiangel.github.io/2019/08/18/http-guide-chap3/)
 
 ## 2장 정리글 리뷰 team
