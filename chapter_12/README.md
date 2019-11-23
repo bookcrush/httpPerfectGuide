@@ -10,5 +10,5 @@
 2. 고의성
 3. 김나영
 4. 류지환
-5. 이승규
+5. 이승규 - [기본 인증, 다이제스트 인증](https://ideveloper2.dev/blog/2019-11-23--%EA%B8%B0%EB%B3%B8-%EC%9D%B8%EC%A6%9D-%EB%8B%A4%EC%9D%B4%EC%A0%9C%EC%8A%A4%ED%8A%B8-%EC%9D%B8%EC%A6%9D/)
 6. 한재우
