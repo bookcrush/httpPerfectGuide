@@ -11,4 +11,4 @@
 3. 김나영
 4. 류지환
 5. 이승규
-6. 한재우
+6. 한재우 - [HTTP 완벽가이드 11장](https://bebiangel.github.io/2019/11/10/http-guide-chap11/)
