@@ -7,7 +7,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주
+2. 고현주 - [16.국제화](https://dev-junior.tistory.com/18)
 3. 김나영
 4. 류지환
 5. 이승규 - [HTTP에서의 국제화](https://ideveloper2.dev/blog/2020-01-12--http%EC%97%90%EC%84%9C%EC%9D%98-%EA%B5%AD%EC%A0%9C%ED%99%94/)
