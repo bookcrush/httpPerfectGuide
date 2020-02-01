@@ -11,5 +11,5 @@
 3. 김나영 - [엔터티와 인코딩](https://feel5ny.github.io/2020/01/05/HTTP_015_01/), [인스턴스 조작과 인코딩](https://feel5ny.github.io/2020/01/06/HTTP_015_02/)
 4. 류지환
 5. 이승규
-6. 한재우
+6. 한재우 - [HTTP 완벽가이드 15장](https://bebiangel.github.io/2020/01/05/http-guide-chap15/)
 7. 홍유정 - [HTTP완벽가이드 15장](https://youjung-hong.github.io/2020-01-10/HTTP완벽가이드-15-엔터티와-인코딩/)
