@@ -7,7 +7,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 고현주
+2. 고현주 - [15. 엔터티와 인코딩](https://dev-junior.tistory.com/17)
 3. 김나영 - [엔터티와 인코딩](https://feel5ny.github.io/2020/01/05/HTTP_015_01/), [인스턴스 조작과 인코딩](https://feel5ny.github.io/2020/01/06/HTTP_015_02/)
 4. 류지환
 5. 이승규
