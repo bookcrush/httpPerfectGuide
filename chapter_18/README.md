@@ -7,7 +7,7 @@
 ## 정리 글 링크
 
 1. 고석진
-2. 김나영
+2. 김나영 - [웹 호스팅](https://feel5ny.github.io/2020/02/02/HTTP_018/), [WebDAV와 공동제작](https://feel5ny.github.io/2020/02/03/HTTP_019/)
 3. 류지환
 4. 이승규
 5. 한재우
