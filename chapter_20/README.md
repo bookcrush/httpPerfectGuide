@@ -10,4 +10,4 @@
 2. 김나영
 3. 류지환
 4. 이승규
-5. 한재우
+5. 한재우 - [HTTP 완벽가이드 20장](https://bebiangel.github.io/2020/02/10/http-guide-chap20/)
